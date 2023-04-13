@@ -1,0 +1,3 @@
+2) As árvores de Gini e de Entropia são extremamente parecidas, sendo que as árvores com divisão 60/40 são iguais. Em um dataset maior as diferenças provavelmente são mais visíveis.
+
+3) Nesse caso, em várias execuções do algoritmo, quanto menor o k, melhor a acurácia.
